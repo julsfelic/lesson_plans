@@ -134,7 +134,7 @@ class ActionDispatch::IntegrationTest
 end
 ```
 
-Next we can start to write our feature test. First touch a new file. `touch app/test/features/tool_creation_test.rb`.
+Next we can start to write our feature test. First touch a new file. `touch test/features/tool_creation_test.rb`.
 
 ```ruby
 require "test_helper"
